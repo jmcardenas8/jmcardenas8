@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ¡Hola! 👋 Soy [Tu Nombre]
+# ¡Hola! 👋 Soy Juan Manuel
 
 Soy estudiante de Astronomía en la Universidad de Antioquia (UdeA). Me apasiona el estudio del universo y cómo podemos utilizar la tecnología para entenderlo mejor. Aquí comparto algunos de mis proyectos y aprendizajes.
 
@@ -28,9 +28,13 @@ Soy estudiante de Astronomía en la Universidad de Antioquia (UdeA). Me apasiona
 
 - **Python**: Mi lenguaje principal para análisis de datos y desarrollo.
 - **C**: Para cuando necesito rendimiento y trabajar cerca del hardware.
-- **Bash (Terminal de Ubuntu)**: Para automatizar tareas y trabajar con scripts.
 - **Markdown**: Para documentación y crear archivos README como este.
 - **CMD (Terminal de Windows)**: Para tareas específicas en Windows.
+
+actualmente estoy aprendiendo:
+- **Bash (Terminal de Ubuntu)**: Para automatizar tareas y trabajar con scripts.
+
+se un poco de: 
 - **Regular Expressions**: Un poco de magia con patrones de texto.
 - **Virtual Environments**: Configurando entornos virtuales para proyectos Python.
 

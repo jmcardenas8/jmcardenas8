@@ -16,33 +16,32 @@ Here are some ideas to get you started:
 
 # ¡Hola! 👋 Soy Juan Manuel
 
-Soy estudiante de Astronomía en la Universidad de Antioquia (UdeA). Me apasiona el estudio del universo y cómo podemos utilizar la tecnología para entenderlo mejor. Aquí comparto algunos de mis proyectos y aprendizajes.
+Soy estudiante de Astronomía en la Universidad de Antioquia. Me apasiona el estudio del universo y cómo podemos utilizar la tecnología para entenderlo mejor. Aquí comparto algunos de mis proyectos y aprendizajes.
 
 ## 🔭 Sobre mí
 
 - 📚 Estudio Astronomía en la UdeA.
-- 🌌 Apasionado por el cosmos y la ciencia.
-- 💻 Amante de la programación y las tecnologías.
+- 🌌 Apasionado por la naturaleza y la ciencia.
+- 💻 Amante de la programación y las tecnologías TIC.
 
-## 🚀 Lenguajes y Herramientas
+## 🚀 Lenguajes y Herramientas que manejo
 
-- **Python**: Mi lenguaje principal para análisis de datos y desarrollo.
-- **C**: Para cuando necesito rendimiento y trabajar cerca del hardware.
-- **Markdown**: Para documentación y crear archivos README como este.
-- **CMD (Terminal de Windows)**: Para tareas específicas en Windows.
+- **Python**: Mi lenguaje principal, para análisis de datos y desarrollo, principalmente en jupyter notebooks.
+- **Markdown**: Para documentación, y programacion literaria combinando texto y codigo en notebooks.
+- **C**: Conocimientos basicos.
+- **Bash (Terminal Ubuntu)**: Conocimientos basicos para automatizar tareas y trabajar con scripts.
+- **CMD (Terminal Windows)**: Conocimientos basicos para tareas específicas en Windows.
 
 actualmente estoy aprendiendo:
-- **Bash (Terminal de Ubuntu)**: Para automatizar tareas y trabajar con scripts.
+- **p5.js** Para simulaciones en ciencia. 
+- **ingenieria de datos**
 
 se un poco de: 
-- **Regular Expressions**: Un poco de magia con patrones de texto.
-- **Virtual Environments**: Configurando entornos virtuales para proyectos Python.
+- **Regular Expressions**: muchos lenguajes estan basados en esta escritura. 
 
-## 🌟 Proyectos Destacados
 
-(Pronto añadiré aquí algunos de mis proyectos más interesantes)
 
-## 📫 Contáctame
+## 📫 Contacto
 
 - [Correo Electrónico](mailto:juanm.cardenas@udea.edu.co)
 - [LinkedIn](https...)

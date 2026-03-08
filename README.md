@@ -36,8 +36,9 @@ actualmente estoy aprendiendo:
 - **p5.js** Para simulaciones en ciencia. 
 - **ingenieria de datos**
 
-se un poco de: 
-- **Regular Expressions**: muchos lenguajes estan basados en esta escritura. 
+se un poco, y me gustaria aprender de: 
+- **Regular Expressions**: pues muchos lenguajes estan basados en esta escritura.
+- **bots y automatizacion en apps**
 
 
 

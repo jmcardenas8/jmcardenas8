@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ¡Hola! 👋 Soy Juan Manuel
+# ¡Hola! Soy Juan Manuel
 
 Soy estudiante de Astronomía en la Universidad de Antioquia. Me apasiona el estudio del universo y cómo podemos utilizar la tecnología para entenderlo mejor. Aquí comparto algunos de mis proyectos y aprendizajes.
 
@@ -24,10 +24,10 @@ Soy estudiante de Astronomía en la Universidad de Antioquia. Me apasiona el est
 - 🌌 Apasionado por la naturaleza y la ciencia.
 - 💻 Amante de la programación y las tecnologías TIC.
 
-## 🚀 Lenguajes y Herramientas que manejo
+## 💻 Lenguajes y Herramientas 
 
 - **Python**: Mi lenguaje principal, para análisis de datos y desarrollo, principalmente en jupyter notebooks.
-- **Markdown**: Para documentación, y programacion literaria combinando texto y codigo en notebooks.
+- **Markdown**: para documentación, y programacion literaria combinando texto y codigo en notebooks.
 - **C**: Conocimientos basicos.
 - **Bash (Terminal Ubuntu)**: Conocimientos basicos para automatizar tareas y trabajar con scripts.
 - **CMD (Terminal Windows)**: Conocimientos basicos para tareas específicas en Windows.
@@ -44,8 +44,8 @@ se un poco de:
 ## 📫 Contacto
 
 - [Correo Electrónico](mailto:juanm.cardenas@udea.edu.co)
-- [LinkedIn](https...)
+- [LinkedIn](www.linkedin.com/in/juan-manuel-cardenas-mancipe-718b57206)
 
 ---
 
-¡Gracias por visitar mi perfil! 🚀✨
+¡Gracias por visitar mi perfil!
